@@ -49,13 +49,13 @@ HotelsApplication.java: Clase principal que inicia la aplicación Spring Boot.
 
 - services/HotelServiceImpl.java: Implementación de la interfaz HotelService.
 
-# Hacemos clic en Run para que ejecute el Spring y se haga exitosamente la conexión.
+# Hacemos clic en Run para que ejecute el Spring y se haga exitosamente la respectiva conexión.
 
 ![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/679ce916-d329-4079-8d8e-596009468a6d)
 
-# Resultado de la Ejecución:
+# Aquí veremos el resultado de la respectiva ejecución:
 
-Después de ejecutar el script, la tabla hotel en la base de datos PostgreSQL se verá de la siguiente manera:
+Después de ejecutar el script, la tabla hotel en la base de datos PostgreSQL se verá así de la siguiente manera:
 
 ![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/2620f398-7d9d-461b-92bd-6ee6a38ef11b)
 
