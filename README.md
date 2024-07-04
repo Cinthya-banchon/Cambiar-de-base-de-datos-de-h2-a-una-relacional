@@ -36,31 +36,33 @@ HotelsApplication.java: Clase principal que inicia la aplicación Spring Boot.
 
 
 - model/Hotel.java: Clase modelo que representa la entidad Hotel.
-![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/902b3eed-fe67-4ba3-8efd-a77cf1070136)
+![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/ea216668-ea57-4765-b9cb-4d9fe90b1938)
 
 
 - repositories/HotelRepository.java: Interfaz de repositorio que proporciona métodos para interactuar con la base de datos de hoteles.
-![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/9e966b72-d841-41a8-b6fa-405425691ffc)
+![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/751efb9c-7afb-4758-8e78-fe0c165b381b)
 
 
 - services/HotelService.java: Interfaz que define los métodos del servicio de hoteles.
-![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/2db54ca0-0d32-4743-90ff-08051f7d7943)
+![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/a6a396a0-c8cc-41f9-8b82-1cfd0a74d69e)
+
 
 - services/HotelServiceImpl.java: Implementación de la interfaz HotelService.
 
 # Hacemos clic en Run para que ejecute el Spring y se haga exitosamente la conexión.
 
-![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/12e20dc5-fd58-47f5-b5d2-66f8cca3ec33)
+![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/679ce916-d329-4079-8d8e-596009468a6d)
 
 # Resultado de la Ejecución:
 
 Después de ejecutar el script, la tabla hotel en la base de datos PostgreSQL se verá de la siguiente manera:
-![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/18382197-b85f-411e-ac37-101f0b830248)
+
+![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/2620f398-7d9d-461b-92bd-6ee6a38ef11b)
 
 
 # vemos la tabla del postgres
-![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/e8540a4e-0ac5-409a-bf6c-c4328a642562)
 
+![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/fc57cba0-75e3-4877-9d28-092dd1b0f89a)
 
 
 # src/main/resources
