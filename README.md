@@ -1,7 +1,7 @@
 # Cambiar de base de datos de h2 a una relacional
 Primero debemos descargar el Spring con las extensiones de Spring Web, PostgreSQL Driver y Spring Data JPA.
 
-![spring](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/c6051f12-a390-4ce6-a0b3-4879e0c49ff4) 
+![spring]![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/8a8d5db2-b0dd-4c7c-a1bd-701750c62b57)
 
 #Estructura del Proyecto
 
