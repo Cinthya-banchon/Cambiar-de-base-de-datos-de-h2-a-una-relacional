@@ -53,7 +53,8 @@ HotelsApplication.java: Clase principal que inicia la aplicación Spring Boot.
 
 # Hacemos clic en Run para que ejecute el Spring y se haga exitosamente la conexión.
 
-![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/12e20dc5-fd58-47f5-b5d2-66f8cca3ec33)
+[image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/db238e7e-6087-4a4f-9552-f442b858fbf3)
+
 
 # Resultado de la Ejecución:
 
