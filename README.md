@@ -31,7 +31,8 @@ src/main/java/com/ug/hotels
 HotelsApplication.java: Clase principal que inicia la aplicación Spring Boot.
 
 - controllers/HotelController.java: Clase controladora que maneja las solicitudes HTTP relacionadas con los hoteles.
-![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/87775243-7b88-4be5-81c3-194daa06d41b)
+![image]![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/d862e6c7-5f48-474f-9c3e-54c06fdebdbb)
+
 
 
 - model/Hotel.java: Clase modelo que representa la entidad Hotel.
