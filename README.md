@@ -21,7 +21,7 @@ mvnw.cmd
 
 pom.xml
 
-# Descripción de Carpetas y Archivos
+# Descripción de Carpetas y Archivos respectivamente.
 
 .mvn/wrapper
 
