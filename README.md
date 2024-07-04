@@ -43,11 +43,10 @@ HotelsApplication.java: Clase principal que inicia la aplicación Spring Boot.
 ![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/751efb9c-7afb-4758-8e78-fe0c165b381b)
 
 
-- services/HotelService.java: Interfaz que define los métodos del servicio de hoteles.
+- services/HotelService.java: Interfaz que define los métodos del servicio de hoteles - services/HotelServiceImpl.java: Implementación de la interfaz HotelService.
+
 ![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/a6a396a0-c8cc-41f9-8b82-1cfd0a74d69e)
 
-
-- services/HotelServiceImpl.java: Implementación de la interfaz HotelService.
 
 # Hacemos clic en Run para que ejecute el Spring y se haga exitosamente la respectiva conexión.
 
