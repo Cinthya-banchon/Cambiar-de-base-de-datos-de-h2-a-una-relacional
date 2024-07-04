@@ -60,7 +60,7 @@ Después de ejecutar el script, la tabla hotel en la base de datos PostgreSQL se
 ![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/2620f398-7d9d-461b-92bd-6ee6a38ef11b)
 
 
-# vemos la tabla del postgres
+# Aquí podemos ver la tabla del postgres:
 
 ![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/fc57cba0-75e3-4877-9d28-092dd1b0f89a)
 
