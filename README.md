@@ -6,7 +6,7 @@ Primero debemos descargar el Spring con las extensiones de Spring Web, PostgreSQ
 
 #Estructura del Proyecto
 
-Este proyecto es una aplicación de gestión de hoteles desarrollada en Java utilizando el framework Spring Boot. A continuación se describe la estructura de carpetas del proyecto:
+Este proyecto es una aplicación de gestión de hoteles desarrollada en Java utilizando el framework Spring Boot. A continuación voy a describir la estructura de cada una de las carpetas del proyecto:
 
 # Carpeta Principal
 
