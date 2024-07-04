@@ -41,7 +41,8 @@ HotelsApplication.java: Clase principal que inicia la aplicación Spring Boot.
 
 
 - repositories/HotelRepository.java: Interfaz de repositorio que proporciona métodos para interactuar con la base de datos de hoteles.
-![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/9e966b72-d841-41a8-b6fa-405425691ffc)
+![image]![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/69cbf89a-67e5-40ef-a2da-60ab75ddd343)
+
 
 
 - services/HotelService.java: Interfaz que define los métodos del servicio de hoteles.
