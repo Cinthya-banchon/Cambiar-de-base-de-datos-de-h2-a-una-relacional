@@ -1,7 +1,7 @@
 # Cambiar de base de datos de h2 a una relacional
 Primero debemos descargar el Spring con las extensiones de Spring Web, PostgreSQL Driver y Spring Data JPA.
 
-![spring]![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/8a8d5db2-b0dd-4c7c-a1bd-701750c62b57)
+![spring](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/c6051f12-a390-4ce6-a0b3-4879e0c49ff4) 
 
 #Estructura del Proyecto
 
@@ -31,30 +31,25 @@ src/main/java/com/ug/hotels
 HotelsApplication.java: Clase principal que inicia la aplicación Spring Boot.
 
 - controllers/HotelController.java: Clase controladora que maneja las solicitudes HTTP relacionadas con los hoteles.
-![image]![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/d862e6c7-5f48-474f-9c3e-54c06fdebdbb)
-
+![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/87775243-7b88-4be5-81c3-194daa06d41b)
 
 
 - model/Hotel.java: Clase modelo que representa la entidad Hotel.
-![image]![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/85529362-937b-43ce-af53-0a2248be619c)
-
+![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/902b3eed-fe67-4ba3-8efd-a77cf1070136)
 
 
 - repositories/HotelRepository.java: Interfaz de repositorio que proporciona métodos para interactuar con la base de datos de hoteles.
-![image]![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/69cbf89a-67e5-40ef-a2da-60ab75ddd343)
-
+![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/9e966b72-d841-41a8-b6fa-405425691ffc)
 
 
 - services/HotelService.java: Interfaz que define los métodos del servicio de hoteles.
-![image]![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/37df4b84-8eac-4043-a891-a7c90f6127b5)
-
+![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/2db54ca0-0d32-4743-90ff-08051f7d7943)
 
 - services/HotelServiceImpl.java: Implementación de la interfaz HotelService.
 
 # Hacemos clic en Run para que ejecute el Spring y se haga exitosamente la conexión.
 
-![image]![image](https://github.com/Cinthya-banchon/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170268641/db238e7e-6087-4a4f-9552-f442b858fbf3)
-
+![image](https://github.com/Wellington-Granados/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170190822/12e20dc5-fd58-47f5-b5d2-66f8cca3ec33)
 
 # Resultado de la Ejecución:
 
