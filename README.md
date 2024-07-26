@@ -1,6 +1,6 @@
-# Deber
+# Deber.
 
-Para cambiar la base de datos de mi aplicación de H2 a PostgreSQL, hice varias modificaciones en la configuración de Spring Boot y en el esquema de la base de datos. 
+Para cambiar la base de datos de mi aplicación de H2 a PostgreSQL, tuve que hacer varias modificaciones en la configuración de Spring Boot y también en el esquema de la base de datos. 
 
 # Modificaciones Realizadas
 
