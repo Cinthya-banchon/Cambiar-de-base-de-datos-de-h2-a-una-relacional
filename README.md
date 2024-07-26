@@ -25,7 +25,8 @@ Para asegurarme de que todo estaba funcionando como se esperaba, realicé las si
 
 Ejecute el archivo para aseguré de que la aplicación pudiera conectarse a la base de datos de PostgreSQL.
 
-![Ejecución ](https://github.com/AslyAlvarezNegrete/Deber-cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170276678/0890d805-f680-42aa-8d95-57a131dbcaf8)
+![image](https://github.com/user-attachments/assets/8850a69a-47ff-4627-a733-1ebfeba0eaf7)
+
 
 2. Comprobé la Creación de la Tabla:
 
