@@ -8,7 +8,6 @@ Para cambiar la base de datos de mi aplicación de H2 a PostgreSQL, hice varias 
 
 Primero cambié la URL de conexión para que apunte a mi base de datos PostgreSQL en lugar de la base de datos H2 en memoria. Luego cambié el driver de H2 por el driver de PostgreSQL. Después actualicé el nombre de usuario y la contraseña para conectarme a PostgreSQL. Finalmente cambié el dialecto de Hibernate de H2 a PostgreSQL y ajusté otras configuraciones.
 
-![Configuración en application properties]
 ![image](https://github.com/user-attachments/assets/b3738fe9-2306-413c-b9d6-a11b0d4d24b1)
 
 
