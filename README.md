@@ -15,7 +15,6 @@ Primero cambié la URL de conexión para que apunte a mi base de datos PostgreSQ
 
 Actualicé la definición de la tabla hotel para que use sintaxis estándar de PostgreSQL. Cambié AUTO_INCREMENT por SERIAL y eliminé las comillas invertidas.
 
-![tabla hotel ]
 ![image](https://github.com/user-attachments/assets/fec88f64-9d20-4a7c-a1b3-a53de37a608d)
 
 
