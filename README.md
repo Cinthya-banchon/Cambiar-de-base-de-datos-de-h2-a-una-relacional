@@ -32,10 +32,12 @@ Ejecute el archivo para aseguré de que la aplicación pudiera conectarse a la b
 
 Usé una herramienta de administración de PostgreSQL para verificar que la tabla hotel se hubiera creado correctamente con la estructura correcta.
 
-![Creación de la Tabla](https://github.com/AslyAlvarezNegrete/Deber-cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170276678/75852c43-89b8-4427-a834-d4b2a533949d)
+![image](https://github.com/user-attachments/assets/44569495-2200-40d8-8c0b-8a1eb999f8ee)
+
 
 3. Revisé los Datos Iniciales:
 
 Verifiqué que los datos iniciales (los registros de los hoteles) estuvieran presentes en la tabla hotel.
 
-![Datos Iniciales](https://github.com/AslyAlvarezNegrete/Deber-cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/170276678/99c1f1c7-d6df-4465-a7df-c0eafcb0c1f7)
+![image](https://github.com/user-attachments/assets/33af01da-2540-467e-a094-0b45922f7b60)
+
